@@ -1,22 +1,6 @@
 {
-  "name": "All-Url-Uploader",
-  "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
-  "keywords": [
-    "telegram",
-    "best",
-    "youtube",
-    "downloader",
-    "open",
-    "source",
-    "multi",
-    "purpose",
-    "ffmpeg",
-    "remote",
-    "uploader"
-  ],
-  "success_url": "https://t.me/All_URL_Uploader_Bot",
-  "website": "https://github.com/kalanakt",
-  "repository": "https://github.com/kalanakt/All-Url-Uploader",
+ 
+ 
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -24,7 +8,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "5327930137:AAGwOsx3aCUrAghfDOd9RKNa9lb2IQB-sV4"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
